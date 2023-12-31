@@ -25,8 +25,8 @@ brain, I will probably just use my laptop for now. Once it is tested
 successfully, maybe I will transfer the brain code to a mini PC powered with a
 battery. The visual sensor can be as simple as a 1080p web cam.
 
-Everything is easy said than done. I may have to deal with a lot of engineering
-challenges. Some of them are captured below.
+Everything is easier said than done. I may have to deal with a lot of engineering
+challenges, as shown below.
 
  * What AI model to use for visual recognition?
  * Do I need to fine-tune or train my own AI model?
